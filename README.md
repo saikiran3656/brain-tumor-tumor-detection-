@@ -41,30 +41,33 @@ Requirements
 
 used mathplotlib for Visualizing Brain MRI Images
 
-![Screenshot 2024-09-08 113926](https://github.com/user-attachments/assets/2028db22-9071-4b31-a04f-ce0c9c02df86)
+![Screenshot 2024-09-08 183604](https://github.com/user-attachments/assets/f1b592f1-2e89-48c9-8b3e-36e5e56b677b)
 
 created a dataloader using PyTorch for dataset loadding and concatinationg the dataset
 
-![Screenshot 2024-09-08 113943](https://github.com/user-attachments/assets/89906fb1-e4d6-48d3-a42d-cc2fb19bc36a)
+![Screenshot 2024-09-08 183628](https://github.com/user-attachments/assets/0798cf1e-f24e-4163-9dfb-985535924349)
 
-![Screenshot 2024-09-08 122130](https://github.com/user-attachments/assets/d0e6864b-b52d-4b1e-8426-a7735dfdf9a1)
+![Screenshot 2024-09-08 183641](https://github.com/user-attachments/assets/29a76268-c95f-4fc9-b72c-d5de818662d9)
 
+![Screenshot 2024-09-08 183641](https://github.com/user-attachments/assets/4ad4aa0a-a308-465b-bd5e-ada7468ed541)
 
 imported seaborn for data visuvalization and sklearn for confision matrix
 
-![Screenshot 2024-09-08 114022](https://github.com/user-attachments/assets/5f9d62f6-7db8-4c6d-85ef-43a105662f55)
+![Screenshot 2024-09-08 183713](https://github.com/user-attachments/assets/7d8407ec-cc48-4ade-aea8-db5f7d00e941)
 
 separation between two classes: "Tumor" and "Healthy"
 
-![Screenshot 2024-09-08 114039](https://github.com/user-attachments/assets/422952fa-bc17-43fb-bad6-4fdd049057ff)
+![Screenshot 2024-09-08 183728](https://github.com/user-attachments/assets/b4fe247c-1882-4235-a0c3-9cb162230b30)
+
 
 accessing 100th index of MRI image
 
-![Screenshot 2024-09-08 114140](https://github.com/user-attachments/assets/84597c6b-c01b-4066-9633-91a517d165f9)
+![Screenshot 2024-09-08 184050](https://github.com/user-attachments/assets/7ed72dde-2a2a-411d-8bf7-06badf5bb96d)
 
  the outputs list contains the feature maps of each layer in the CNN, and the layer_viz variable contains the feature maps of the current layer. 
 
- ![Screenshot 2024-09-08 114156](https://github.com/user-attachments/assets/208c2ff8-d5ec-4eb9-b071-e136c7e53d81)
+ ![Screenshot 2024-09-08 184150](https://github.com/user-attachments/assets/11b40db2-05f6-4cdb-a335-3e161c7f6a7d)
+
 
  
 
